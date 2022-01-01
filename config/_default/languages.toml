@@ -1,5 +1,5 @@
 ############################# 中文 ############################
-[cn]
+[zh]
 languageName = "中文"
 title = "Hsuan 網路"
 contentDir = "content/chinese" # content/german
@@ -11,6 +11,7 @@ footer_menu_right = "支援"
 footer_content = "開發網站、網路基礎設施的最佳助手"
 # copyright
 copyright = "網頁設計： [Hsuan](https://hsuan.app/)、網頁範本： [Gethugothemes](https://gethugothemes.com/)(MIT License)"
+
 
 ############################# English ############################
 [en]
