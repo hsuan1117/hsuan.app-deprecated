@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "https://hsuan.app/"
 title = "Hsuan網路"
 theme = "bigspring-light"
 # post pagination
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-NMCWKV75ET" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
