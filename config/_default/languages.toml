@@ -1,0 +1,28 @@
+############################# 中文 ############################
+[cn]
+languageName = "中文"
+title = "Hsuan 網路"
+contentDir = "content/chinese" # content/german
+weight = 1
+########### footer content ##########
+footer_menu_left = "組織"
+footer_menu_middle = "產品"
+footer_menu_right = "支援"
+footer_content = "開發網站、網路基礎設施的最佳助手"
+# copyright
+copyright = "網頁設計： [Hsuan](https://hsuan.app/)、網頁範本： [Gethugothemes](https://gethugothemes.com/)(MIT License)"
+
+############################# English ############################
+[en]
+languageName = "en"
+title = "Hsuan Internet"
+contentDir = "content/english" # content/english
+weight = 2
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "The best company for developing websites and infrastructures."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+
