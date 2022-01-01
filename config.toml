@@ -1,3 +1,4 @@
 baseURL = 'https://hsuan.app'
 languageCode = 'zh-tw'
-title = 'My New Hugo Site'
+title = 'Hsuan 網路服務'
+defaultContentLanguage = 'zh'

@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "開發網頁 <br> Entwicklung lösen"
+  title : "Hsuan 網路服務"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "多種網路服務提供給想數位化的你"
   button:
     enable : true
     label : "聯絡我們"
@@ -17,7 +17,7 @@ feature:
     # feature item loop
     - name : "網站開發"
       icon : "fas fa-code"
-      content : "開發網站"
+      content : "各式各樣功能型網站開發"
       
     # feature item loop
     - name : "網站基礎設施架構"
@@ -25,9 +25,9 @@ feature:
       content : "協助客戶架設伺服器端網站應用程式"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "諮詢服務"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "優質的諮詢服務"
       
     # feature item loop
     - name : "Value For Money"
@@ -40,9 +40,9 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "雲服務"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "中小企業上雲不是夢<br>立即諮詢來了解上雲方針"
       
 
 

@@ -1,7 +1,7 @@
 ############################# 中文 ############################
 [zh]
 languageName = "中文"
-title = "Hsuan 網路"
+title = "Hsuan 網路服務"
 contentDir = "content/chinese" # content/german
 weight = 1
 ########### footer content ##########
