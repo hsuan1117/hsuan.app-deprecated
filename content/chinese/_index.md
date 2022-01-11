@@ -30,20 +30,20 @@ feature:
       content : "優質的諮詢服務"
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "資安防護"
+      icon : "fas fa-shield-alt"
+      content : "讓企業的伺服器不再暴露於危險之中<br>為企業擋下日益漸增的網路攻擊"
       
     # feature item loop
     - name : "雲服務"
       icon : "fas fa-cloud"
       content : "中小企業上雲不是夢<br>立即諮詢來了解上雲方針"
-      
+    
+    # feature item loop
+    - name : "細心、熱忱"
+      icon : "fas fa-heart"
+      content : "以認真、謹慎、又富有熱情的態度<br>面對每一位客戶"
+     
 
 
 ######################### Service #####################
@@ -86,7 +86,7 @@ service:
     - title : "慢漫農莊"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "提供水果、果乾，採用傳統工法窯烤的龍眼乾、天然香甜的芒果，由小農自行經營的小小商鋪"
       button:
         enable : true
         label : "Check it out"
@@ -103,9 +103,9 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "準備好讓企業數位化了嗎？"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "立即聯絡洽詢，讓企業迅速又安全地企業化"
   button:
     enable : true
     label : "聯絡我們"

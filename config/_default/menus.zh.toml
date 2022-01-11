@@ -10,7 +10,7 @@ url = "https://blog.hsuan.app"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "方案"
 url = "pricing"
 weight = 3
 
@@ -40,12 +40,12 @@ url = "pricing"
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "產品總覽"
+url = "products"
 
 [[footer_middle]]
-name = "Platform"
-url = "#"
+name = "Pricing"
+url = "pricing"
 
 [[footer_middle]]
 name = "Features"
@@ -54,11 +54,15 @@ url = "#"
 # footer menu right
 [[footer_right]]
 name = "隱私權政策"
-url = "privacy-policy"
+url = "https://policy.hsuan.app/privacy"
+
+[[footer_right]]
+name = "授權條款"
+url = "https://policy.hsuan.app/copyright"
 
 [[footer_right]]
 name = "服務條款"
-url = "terms-conditions"
+url = "https://policy.hsuan.app/terms"
 
 [[footer_right]]
 name = "FAQ"
