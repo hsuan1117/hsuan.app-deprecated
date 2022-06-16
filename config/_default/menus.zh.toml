@@ -1,16 +1,16 @@
 # main menu
 [[main]]
-name = "Home"
+name = "主頁"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "部落格"
 url = "https://blog.hsuan.app"
 weight = 2
 
 [[main]]
-name = "方案"
+name = "價格"
 url = "pricing"
 weight = 3
 
@@ -20,23 +20,14 @@ url = "contact"
 weight = 4
 
 [[main]]
-name = "FAQ"
+name = "常見問題"
 url = "faq"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "關於我們"
 url = "#"
-
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
 
 # footer menu middle
 [[footer_middle]]
@@ -44,11 +35,11 @@ name = "產品總覽"
 url = "products"
 
 [[footer_middle]]
-name = "Pricing"
+name = "價格"
 url = "pricing"
 
 [[footer_middle]]
-name = "Features"
+name = "特點"
 url = "#"
 
 # footer menu right
