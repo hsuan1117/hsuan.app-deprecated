@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="190da0e3-0b84-4a77-b231-bdf4d7a4260a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.zh.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.zh.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/chinese/faq/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/chinese/faq/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/chinese/pricing/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/chinese/pricing/_index.md" afterDir="false" />
-    </list>
+    <list default="true" id="190da0e3-0b84-4a77-b231-bdf4d7a4260a" name="Changes" comment="價目表" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +49,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655366214125</updated>
       <workItem from="1655366215258" duration="164000" />
-      <workItem from="1655366388787" duration="2351000" />
+      <workItem from="1655366388787" duration="2961000" />
     </task>
+    <task id="LOCAL-00001" summary="價目表">
+      <created>1655371643340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655371643340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="價目表" />
+    <option name="LAST_COMMIT_MESSAGE" value="價目表" />
   </component>
 </project>
